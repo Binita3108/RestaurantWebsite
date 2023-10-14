@@ -1,0 +1,36 @@
+.contact{
+	position: absolute;
+	top: 67px;
+	height: 500px;
+	width: 320px;
+	margin-left: 20%;
+}
+h1{
+	font-family: Alkatra;
+	font-size: 32px;
+	color: #fff;
+}
+h3{
+	margin-top: -12px;
+	font-family: Overpass,Arial;
+	font-size: 20px;
+	color: #fff;
+}
+h2{
+	font-family: Alkatra;
+	margin-top: -30px;
+	color: #fff;
+}
+body{
+	background: url(img/background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+h4{
+	font-style: bold;
+	font-family: Overpass;
+	margin-top: -20px;
+	font-size: 18px;
+	color: #fff;
+}
